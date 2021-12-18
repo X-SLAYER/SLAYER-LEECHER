@@ -7,17 +7,6 @@ Imports System.Threading
 Imports xNet
 
 
-' SLAYER Leecher
-' Made By X-SLAYER with Love (Tunisia,Sousse)
-' First Version was released on 06/10/2016 11:45 AM
-' Source code posted by X-SLAYER on 19/12/2021  01:00 AM ( after 5 years)  😭  😭 
-' My Telegram : t.me/SLAYERS404
-
-' When I wote this code, only god and
-' I knew how it worked.
-' Now, only god knows it!
-
-
 
 Public Class SLAYER_HELPER
 
