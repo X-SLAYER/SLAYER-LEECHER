@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SLAYER Leecher v0.2
+</name>
+</assembly>
+<members>
+<member name="T:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources._1492186413_12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources.credit">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources.loading_gif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources.NewVersion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources.S1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources.s2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources.s3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SLAYER_Combo_Searcher_v_0._4.My.Resources.Resources.shopping_cart_accept_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
