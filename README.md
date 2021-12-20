@@ -2,7 +2,7 @@
 
 ## IMPORTANT NOTICE
 
-**SLayer Leecher has reached the end of its life, no more support will be provided for it**
+**Slayer Leecher has reached the end of its life, no more support will be provided for it**
 
 Note: This project was only made for education purposes. If you choose to use this for malicious reasons, you are completely responsible for the outcome.
 - - - -
