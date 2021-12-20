@@ -6,9 +6,9 @@
 
 Note: This project was only made for education purposes. If you choose to use this for malicious reasons, you are completely responsible for the outcome.
 - - - -
-Slayer Leecher just Like any other Combo Leechers, it's An Combo Making Tool Coded By X-slayer.
+Slayer Leecher just Like any other Combo Leechers, it's a Combo Making Tool Coded By X-SLAYER.
 It's used to **scrap** and **parse** multiple types of data from the internet.
-SLayer leecher uses **keywords** to search on the internet and grab the specific result defined by the user
+Slayer leecher uses **keywords** to search on the internet and grab the specific result defined by the user
 
 ![SLAYER](https://i.imgur.com/BBpaEcF.png)
 
